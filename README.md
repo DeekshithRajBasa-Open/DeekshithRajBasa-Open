@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeekshithRajBasa-Open
-- 👀 I’m interested in Angular, react js
+- 👀 I’m interested in Angular and react js
 - 🌱 I’m currently learning tailwind css.
 <!---
 DeekshithRajBasa-Open/DeekshithRajBasa-Open is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
